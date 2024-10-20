@@ -1,2 +1,2 @@
 #Demo
-README File Created.
+This is readme file for the project info
